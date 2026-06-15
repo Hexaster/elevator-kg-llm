@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+# proprietary data and large artifacts are not distributed
+data/
+output/
+my_kg_cache/
+*.jsonl
+*.pt
+*.bin
+*.safetensors
+bert-base-chinese/
+.DS_Store

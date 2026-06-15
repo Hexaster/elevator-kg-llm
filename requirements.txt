@@ -1,0 +1,10 @@
+# Python >= 3.9
+bert-score
+networkx
+numpy
+openai
+scipy
+sentence-transformers
+torch
+tqdm
+transformers
